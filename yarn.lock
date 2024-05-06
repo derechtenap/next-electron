@@ -2153,9 +2153,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@mantine/core@npm:^7.8.0":
-  version: 7.8.0
-  resolution: "@mantine/core@npm:7.8.0"
+"@mantine/core@npm:^7.9.0":
+  version: 7.9.0
+  resolution: "@mantine/core@npm:7.9.0"
   dependencies:
     "@floating-ui/react": "npm:^0.26.9"
     clsx: "npm:2.1.0"
@@ -2164,10 +2164,10 @@ __metadata:
     react-textarea-autosize: "npm:8.5.3"
     type-fest: "npm:^4.12.0"
   peerDependencies:
-    "@mantine/hooks": 7.8.0
+    "@mantine/hooks": 7.9.0
     react: ^18.2.0
     react-dom: ^18.2.0
-  checksum: 10c0/1edd475a34689f516dade01f62027a3441555fa52238e2a26c0e960c9e9d293415bc6154cdb64cbb370a3f9b2516328c310675092dddc224253853681b83efb5
+  checksum: 10c0/e856f73ab864aba644c59ecaf5189be1e3f0420e5003564449958faa795267f24d5c94275c1cf73841f95fd55368855e46126cd805aa1c137144e0fcc2a1aa69
   languageName: node
   linkType: hard
 
@@ -12451,7 +12451,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "nextjs-electron-boilerplate@workspace:."
   dependencies:
-    "@mantine/core": "npm:^7.8.0"
+    "@mantine/core": "npm:^7.9.0"
     "@mantine/hooks": "npm:^7.8.0"
     "@storybook/addon-essentials": "npm:^7.6.17"
     "@storybook/addon-interactions": "npm:^7.6.17"
